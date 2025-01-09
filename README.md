@@ -5,10 +5,11 @@ This repository contains multiple challenges. Each challenge is located in its r
 ## Challenges
 
 - [bridge](bridge/README.md)
-- [mev-bots](mev-bots/README.md)
-- [proxy](proxy/README.md)
-- [zk-intro](zk-intro/README.md)
-- [zk-vm](zk-vm/README.md)
+- [mev-bots](https://github.com/antojoseph/hib-advanced/blob/main/mev-bots/flashbots-demo-main/README.md)
+- [proxy - phase 1](https://github.com/antojoseph/hib-advanced/tree/main/proxy/phase1)
+- [proxy - phase 2](https://github.com/antojoseph/hib-advanced/tree/main/proxy/phase2)
+- [zk-intro](https://github.com/antojoseph/hib-advanced/blob/main/zk-intro/circom-hello-world-main/README.md)
+- [zk-vm](https://github.com/antojoseph/hib-advanced/tree/main/zk-vm/zk-hash-match-main)
 
 ## How to Run
 
