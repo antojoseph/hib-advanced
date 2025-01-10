@@ -1,4 +1,4 @@
-# hib-advanced
+# hib-advanced (sample)
 
 This repository contains multiple challenges. Each challenge is located in its respective folder and contains instructions on how to run them within the `README.md` file inside each folder.
 
